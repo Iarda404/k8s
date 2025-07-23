@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"k8s.sample"},{"l":"k8s.sample.api"},{"l":"k8s.sample.health"},{"l":"k8s.sample.resources"}];updateSearchResults();

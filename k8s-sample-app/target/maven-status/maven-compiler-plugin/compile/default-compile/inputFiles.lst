@@ -1,0 +1,8 @@
+/home/iarda/SwissLife/git/k8s/k8s-sample-app/src/main/java/k8s/sample/api/OutData.java
+/home/iarda/SwissLife/git/k8s/k8s-sample-app/src/main/java/k8s/sample/HelloWorldConfiguration.java
+/home/iarda/SwissLife/git/k8s/k8s-sample-app/src/main/java/k8s/sample/KubeSampleApp.java
+/home/iarda/SwissLife/git/k8s/k8s-sample-app/src/main/java/k8s/sample/resources/LivenessResource.java
+/home/iarda/SwissLife/git/k8s/k8s-sample-app/src/main/java/k8s/sample/AppData.java
+/home/iarda/SwissLife/git/k8s/k8s-sample-app/src/main/java/k8s/sample/resources/MainResource.java
+/home/iarda/SwissLife/git/k8s/k8s-sample-app/src/main/java/k8s/sample/health/AppHealthCheck.java
+/home/iarda/SwissLife/git/k8s/k8s-sample-app/src/main/java/k8s/sample/resources/ReadinessResource.java

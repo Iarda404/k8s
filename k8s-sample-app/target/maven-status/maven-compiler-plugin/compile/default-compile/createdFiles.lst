@@ -1,0 +1,8 @@
+k8s/sample/resources/MainResource.class
+k8s/sample/HelloWorldConfiguration.class
+k8s/sample/resources/ReadinessResource.class
+k8s/sample/AppData.class
+k8s/sample/api/OutData.class
+k8s/sample/resources/LivenessResource.class
+k8s/sample/KubeSampleApp.class
+k8s/sample/health/AppHealthCheck.class
